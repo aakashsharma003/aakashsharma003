@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to contribute on **Open Source Project**
 
-- 🤝 I’m looking for help with **Android Development**
+- 🤝 I’m looking for help with **MERN Stack Development**
 
 - 💬 Ask me about **java, spring, springboot**
 
@@ -28,7 +28,7 @@
 <a href="https://medium.com/@demaxxer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@demaxxer" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/demaxxer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/demaxxer" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/aakash6263264?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/aakash6263264?hr_r=1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/demaxxer_7911/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/demaxxer_7911/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/demaxxer-791/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/demaxxer_7911/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/https://www.hackerearth.com/@aakash6263264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@aakash6263264" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/demaxxer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/demaxxer" height="30" width="40" /></a>
 </p>
