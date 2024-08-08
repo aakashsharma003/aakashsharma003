@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hello 👋, I'm Akash Sharma</h1>
-<h3 align="center">A Passionate Open Source Contributor and Full Stack Developer from India</h3>
+<h3 align="center">A passionate open-source contributor and full-stack developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashsharma003&label=Profile%20views&color=0e75b6&style=flat" alt="aakashsharma003" /> </p>
 
@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Nextjs, TypeScript**
+- 🌱 Currently exploring **Next.js and TypeScript.**
 
-- 👯 I’m looking to contribute to **Open Source Projects**
+- 👯 Actively seeking opportunities to contribute to **Open Source Projects.**
 
-- 🤝 Love to Contribute **Open Source Contributer**
+- 🤝  Passionate about **Open Source Collaboration.**
 
-- 💬 Ask me about **React, Express, Next.js**
+- 💬 Feel free to ask me about **React, Express,or Next.js**
 
-- 📫 How to reach me: **[aakash6263264@gmail.com](mailto:aakash6263264@gmail.com)**
+- 📫 You can reach me at: **[aakash6263264@gmail.com](mailto:aakash6263264@gmail.com)**
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
