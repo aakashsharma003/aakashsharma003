@@ -37,5 +37,6 @@
 <h3 align="left">Contributions:</h3>
 
 
+[![github stats](https://github-readme-stats.vercel.app/api?username=aakashsharma003&show_icons=true&hide_title=true&hide_border=true)](https://aakash-sharma.vercel.app)
 
-[![GitHub Stats](https://stats.quine.sh/aakashsharma003/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aakashsharma003)
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aakashsharma003&layout=compact&hide_border=true)](https://aakash-sharma.vercel.app)
