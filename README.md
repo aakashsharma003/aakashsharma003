@@ -30,9 +30,7 @@
 <a href="https://www.hackerearth.com/@aakash6263264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@aakash6263264" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/demaxxer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/demaxxer" height="30" width="40" /></a>
 </p>
-<h3 align="left">Contributions:</h3>
-
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=aakashsharma003&show_icons=true&hide_title=true&hide_border=true)](https://aakash-sharma.vercel.app)
 
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aakashsharma003&layout=compact&hide_border=true)](https://aakash-sharma.vercel.app)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aakashsharma003&theme=dark)](https://git.io/streak-stats)
