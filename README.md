@@ -33,4 +33,4 @@
 
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aakashsharma003&layout=compact&hide_border=true)](https://aakash-sharma.vercel.app)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aakashsharma003&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aakashsharma003)](https://git.io/streak-stats)
