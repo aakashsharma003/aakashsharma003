@@ -15,7 +15,7 @@
 
 - 🤝  Passionate about **Open Source Collaboration.**
 
-- 💬 Feel free to ask me about **Core Java, **
+- 💬 Feel free to ask me about **Core Java, Springboot**
 
 - 📫 You can reach me at: **[as8619495782@gmail.com](mailto:as8619495782@gmail.com)**
 
