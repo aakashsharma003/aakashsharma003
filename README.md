@@ -15,9 +15,9 @@
 
 - 🤝  Passionate about **Open Source Collaboration.**
 
-- 💬 Feel free to ask me about **React, Express,or Next.js**
+- 💬 Feel free to ask me about **Core Java, **
 
-- 📫 You can reach me at: **[aakash6263264@gmail.com](mailto:aakash6263264@gmail.com)**
+- 📫 You can reach me at: **[as8619495782@gmail.com](mailto:as8619495782@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
