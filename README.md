@@ -27,7 +27,3 @@
 <a href="https://auth.geeksforgeeks.org/user/demaxxer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/demaxxer" height="30" width="40" /></a>
 </p>
 
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aakashsharma003&layout=compact&hide_border=true)](https://aakash-sharma.vercel.app)
-
-[![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakashsharma003&show_icons=true&theme=tokyonight)](https://aakash-sharma.vercel.app)
-
