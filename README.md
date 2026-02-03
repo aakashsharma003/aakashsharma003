@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank" height="20" width="30"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 Currently exploring **Next.js and TypeScript.**
+- 🌱 Currently exploring **Java and Springboot.**
 
 - 👯 Actively seeking opportunities to contribute to **Open Source Projects.**
 
