@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashsharma003&label=Profile%20views&color=0e75b6&style=flat" alt="aakashsharma003" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" height="20" width="30"><img src="https://github-profile-trophy.vercel.app/?username=aakashsharma003" alt="aakashsharma003" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank" height="20" width="30"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 Currently exploring **Java and Springboot.**
 
 - 👯 Actively seeking opportunities to contribute to **Open Source Projects.**
@@ -17,7 +13,7 @@
 
 - 💬 Feel free to ask me about **Core Java, Springboot**
 
-- 📫 You can reach me at: **[as8619495782@gmail.com](mailto:as8619495782@gmail.com)**
+- 📫 You can reach me at: **[aakashsharma.job@gmail.com](mailto:aakashsharma.job@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
