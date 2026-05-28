@@ -1,29 +1,105 @@
+<div align="center">
 
+# Hi, I'm Akash Sharma 👋
 
-<h1 align="center">Hello 👋, I'm Akash Sharma</h1>
-<h3 align="center">A passionate open-source contributor and full-stack developer from India.</h3>
+**"Don't chase success. Build systems that create it."**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashsharma003&label=Profile%20views&color=0e75b6&style=flat" alt="aakashsharma003" /> </p>
+<img src="https://komarev.com/ghpvc/?username=aakashsharma003&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 
-- 🌱 Currently exploring **Java and Springboot.**
+<br/>
 
-- 👯 Actively seeking opportunities to contribute to **Open Source Projects.**
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40aakashsharma003-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/aakashsharma003)
+[![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40akash--sharma--aab4a0227-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://linkedin.com/in/akash-sharma-aab4a0227)
+[![Medium](https://www.shieldcn.dev/badge/Medium-Medium-000000.svg?logo=medium&variant=branded&size=sm)](https://medium.com/@demaxxer)
 
-- 🤝  Passionate about **Open Source Collaboration.**
+<br/>
 
-- 💬 Feel free to ask me about **Core Java, Springboot**
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/aakashsharma003.svg?variant=secondary&size=sm)](https://github.com/aakashsharma003?tab=followers)
+[![GitHub Stars](https://www.shieldcn.dev/github/user-stars/aakashsharma003.svg?variant=secondary&size=sm)](https://github.com/aakashsharma003?tab=repositories)
+[![Public Repos](https://www.shieldcn.dev/badge/Repos-91-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/aakashsharma003?tab=repositories)
+![Location](https://www.shieldcn.dev/badge/Location-Remote-6366f1.svg?logo=googlemaps&variant=ghost&size=sm)
 
-- 📫 You can reach me at: **[aakashsharma.job@gmail.com](mailto:aakashsharma.job@gmail.com)**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dev.demaxxer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.demaxxer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akash-sharma-aab4a0227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akash-sharma-aab4a0227" height="30" width="40" /></a>
-<a href="https://medium.com/@demaxxer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@demaxxer" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/demaxxer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/demaxxer" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aakash6263264?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/aakash6263264?hr_r=1" height="30" width="40" /></a>
-<a href="https://leetcode.com/aakashsharma_03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/demaxxer_7911/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@aakash6263264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@aakash6263264" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/demaxxer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/demaxxer" height="30" width="40" /></a>
-</p>
+---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashsharma003&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🔃 Pull Requests & Issues
+
+<div align="center">
+
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aakashsharma003&theme=tokyonight" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aakashsharma003&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🌐 Open Source Contributions
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aakashsharma003&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aakashsharma003&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+![Contribution Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakashsharma003&theme=tokyonight)
+
+</div>
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Languages
+![Java](https://www.shieldcn.dev/badge/-Java-ED8B00.svg?logo=openjdk&variant=branded&size=sm)
+![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&size=sm)
+![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm)
+![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm)
+![Go](https://www.shieldcn.dev/badge/-Go-00ADD8.svg?logo=go&variant=branded&size=sm)
+![C++](https://www.shieldcn.dev/badge/-C++-00599C.svg?logo=cplusplus&variant=branded&size=sm)
+![Shell](https://www.shieldcn.dev/badge/-Shell-4EAA25.svg?logo=gnubash&variant=branded&size=sm)
+
+### Frameworks & Libraries
+![Spring Boot](https://www.shieldcn.dev/badge/-Spring_Boot-6DB33F.svg?logo=springboot&variant=branded&size=sm)
+![Node.js](https://www.shieldcn.dev/badge/-Node.js-339933.svg?logo=nodedotjs&variant=branded&size=sm)
+![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&size=sm)
+![Next.js](https://www.shieldcn.dev/badge/-Next.js-000000.svg?logo=nextdotjs&variant=branded&size=sm)
+![Express](https://www.shieldcn.dev/badge/-Express-000000.svg?logo=express&variant=branded&size=sm)
+
+### Tools & DevOps
+![Docker](https://www.shieldcn.dev/badge/-Docker-2496ED.svg?logo=docker&variant=branded&size=sm)
+![Kubernetes](https://www.shieldcn.dev/badge/-Kubernetes-326CE5.svg?logo=kubernetes&variant=branded&size=sm)
+![Git](https://www.shieldcn.dev/badge/-Git-F05032.svg?logo=git&variant=branded&size=sm)
+![GitHub Actions](https://www.shieldcn.dev/badge/-GitHub_Actions-2088FF.svg?logo=githubactions&variant=branded&size=sm)
+![Linux](https://www.shieldcn.dev/badge/-Linux-FCC624.svg?logo=linux&variant=branded&size=sm)
+![AWS](https://www.shieldcn.dev/badge/-AWS-232F3E.svg?logo=amazonaws&variant=branded&size=sm)
+
+### Databases
+![PostgreSQL](https://www.shieldcn.dev/badge/-PostgreSQL-4169E1.svg?logo=postgresql&variant=branded&size=sm)
+![MongoDB](https://www.shieldcn.dev/badge/-MongoDB-47A248.svg?logo=mongodb&variant=branded&size=sm)
+![Redis](https://www.shieldcn.dev/badge/-Redis-FF4438.svg?logo=redis&variant=branded&size=sm)
+![MySQL](https://www.shieldcn.dev/badge/-MySQL-4479A1.svg?logo=mysql&variant=branded&size=sm)
+
+---
