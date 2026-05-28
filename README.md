@@ -23,7 +23,7 @@
 
 ---
 
-## 📊 GitHub Stats
+- ## GitHub Stats
 
 <div align="center">
 
@@ -33,7 +33,7 @@
 
 ---
 
-## 🔃 Pull Requests & Issues
+- ## Pull Requests & Issues
 
 <div align="center">
 
@@ -43,7 +43,7 @@
 
 ---
 
-## 📈 Contribution Activity
+- ## Contribution Activity
 
 <div align="center">
 
@@ -53,7 +53,7 @@
 
 ---
 
-## 🌐 Open Source Contributions
+- ## Open Source Contributions
 
 <div align="center">
 
@@ -70,7 +70,7 @@
 
 ---
 
-## 🛠️ Skills & Technologies
+- ## Skills & Technologies
 
 ### Languages
 ![Java](https://www.shieldcn.dev/badge/-Java-ED8B00.svg?logo=openjdk&variant=branded&size=sm)
