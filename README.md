@@ -23,16 +23,6 @@
 
 ---
 
-- ## GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashsharma003&theme=tokyonight" />
-
-</div>
-
----
-
 - ## Pull Requests & Issues
 
 <div align="center">
