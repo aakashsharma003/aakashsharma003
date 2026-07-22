@@ -21,40 +21,13 @@
 
 </div>
 
----
 
-- ## Pull Requests & Issues
-
-<div align="center">
-
-<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aakashsharma003&theme=tokyonight" />
-
-</div>
-
----
 
 - ## Contribution Activity
 
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aakashsharma003&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
-- ## Open Source Contributions
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aakashsharma003&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aakashsharma003&theme=tokyonight" />
-
-</div>
-
-<div align="center">
-
-![Contribution Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakashsharma003&theme=tokyonight)
 
 </div>
 
